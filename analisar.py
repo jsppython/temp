@@ -39,6 +39,10 @@ class Utils:
 			sentenca = matches.group(0)
 		return sentenca
 
+	def extrair_nome_arquivo(path):
+		partes = path.split("\\")
+		return partes[-1]
+
 # Classe Ocorrencia, representa a o ocorrência de uma palavra-chave
 # em uma sentença em uma linha em um prontuário.
 class Ocorrencia:
@@ -64,6 +68,19 @@ for prontuario in prontuarios:
 				ocorrencia = Ocorrencia(prontuario, num_da_linha, keyword, sentenca) 
 				lista_ocorrencias.append(ocorrencia) 
 
+# Imprimir relatório
+print("RELATÓRIO DA ANALISE DE PRONTUÁRIOS")
+print()
+print("1. LISTA DE PRONTUÁRIOS")
+for indice in range(len(prontuarios)):
+	numero_do_topico = str(indice + 1)
+	nome_do_prontuario = Utils.extrair_nome_arquivo(prontuarios[indice])
+	print("1." + numero_do_topico + ". " + nome_do_prontuario + ".")
+print()
+print("2. LISTA DE PALAVRAS-CHAVE")
+for indice in range(len(keywords)):
+	numero_do_topico = str(indice + 1)
+	print("2." + numero_do_topico + ". " + keywords[indice] + ".")
 print(len(lista_ocorrencias))
 print(len(keywords))
 print(len(prontuarios))
