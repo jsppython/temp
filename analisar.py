@@ -69,18 +69,29 @@ for prontuario in prontuarios:
 				lista_ocorrencias.append(ocorrencia) 
 
 # Imprimir relatório
+
+## Cabeçalho
 print("RELATÓRIO DA ANALISE DE PRONTUÁRIOS")
 print()
 print("1. LISTA DE PRONTUÁRIOS")
 for indice in range(len(prontuarios)):
 	numero_do_topico = str(indice + 1)
 	nome_do_prontuario = Utils.extrair_nome_arquivo(prontuarios[indice])
-	print("1." + numero_do_topico + ". " + nome_do_prontuario + ".")
+	print("\t1." + numero_do_topico + ". " + nome_do_prontuario)
 print()
 print("2. LISTA DE PALAVRAS-CHAVE")
 for indice in range(len(keywords)):
 	numero_do_topico = str(indice + 1)
-	print("2." + numero_do_topico + ". " + keywords[indice] + ".")
+	print("\t2." + numero_do_topico + ". " + keywords[indice])
+print()
+print("3. OCORRÊNCIAS DE PALAVRAS-CHAVE POR ARQUIVO")
+for indice in range(len(prontuarios)):
+	numero_do_topico = str(indice + 1)
+	nome_do_prontuario = Utils.extrair_nome_arquivo(prontuarios[indice])
+	print("\t3." + numero_do_topico + ". " + nome_do_prontuario)
+	for keyword in range(len(keywords)):
+		print("\t2." + numero_do_topico + ". " + keywords[indice])
+print()
 print(len(lista_ocorrencias))
 print(len(keywords))
 print(len(prontuarios))
