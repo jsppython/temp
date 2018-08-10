@@ -73,17 +73,24 @@ for prontuario in prontuarios:
 ## Cabeçalho
 print("RELATÓRIO DA ANALISE DE PRONTUÁRIOS")
 print()
+
+## Lista de prontuários
 print("1. LISTA DE PRONTUÁRIOS")
 for indice in range(len(prontuarios)):
 	numero_do_topico = str(indice + 1)
 	nome_do_prontuario = Utils.extrair_nome_arquivo(prontuarios[indice])
 	print("\t1." + numero_do_topico + ". " + nome_do_prontuario)
 print()
+
+## Lista de Palavras-chave
 print("2. LISTA DE PALAVRAS-CHAVE")
 for indice in range(len(keywords)):
 	numero_do_topico = str(indice + 1)
 	print("\t2." + numero_do_topico + ". " + keywords[indice])
 print()
+
+## Lista de 
+"""
 print("3. OCORRÊNCIAS DE PALAVRAS-CHAVE POR ARQUIVO")
 for indice in range(len(prontuarios)):
 	numero_do_topico = str(indice + 1)
@@ -96,3 +103,4 @@ print(len(lista_ocorrencias))
 print(len(keywords))
 print(len(prontuarios))
 print(keywords)
+"""
