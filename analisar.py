@@ -3,8 +3,8 @@ import glob
 import json
 
 # Constantes
-ARQ_DE_KEYWORDS = r"D:\codigo\testes\keywords.txt"
-PATH_PRONTUARIOS = r"D:\codigo\arquivos"
+ARQ_DE_KEYWORDS = r"keywords.txt"
+PATH_PRONTUARIOS = r".\prontuarios"
 
 # Classe Utilitarios, agrupamento de funções genéricas
 class Utils:

@@ -1,0 +1,25 @@
+RELATÓRIO DA ANALISE DE PRONTUÁRIOS
+
+1. LISTA DE PRONTUÁRIOS
+	1.1. Arquivo 1
+	1.2. Arquivo 2
+	...
+	
+2. LISTA DE PALAVRAS-CHAVE
+	2.1. Flexão
+	2.2. Patela
+	...
+	
+3. OCORRÊNCIAS DE PALAVRAS-CHAVE POR ARQUIVO
+	3.1. Arquivo 1
+		 Patela
+		 Flexão
+	3.2. Arquivo 2
+		 Nenhuma palavra-chave
+	...
+	
+4. SENTENCAS ONDE OCORREM AS PALAVRAS-CHAVE
+	4.1. Arquivo 1
+		 4.1.1. Patela
+			4.1.1.1. Linha 22
+					 "A patela ...."
