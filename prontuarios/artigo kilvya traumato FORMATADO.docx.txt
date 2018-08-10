@@ -1,0 +1,598 @@
+2
+
+
+
+
+
+TRAUMATO-ORTOPÉDIA EM PACIENTES COM TENDINOPATIA E RUPTURA DO SUPRA ESPINHOSO: RELATO DE CASO
+
+
+
+ Antonia Kilvya Brandão da Silva¹ 
+
+Rute Rodrigues da Silva² 
+
+Felipe Soares Gregorio³ 
+
+
+
+
+
+
+
+ Resumo: O ombro é uma articulação de grande mobilidade do corpo humano e, consequência disso são as mais vulneráveis. Seus componentes constituem de: três ossos (úmero, clavícula e escápula), três articulações (esternoclavicular[EC], acromioclavicular[AC] e glenoumeral[GU]), uma “pseudoarticulação” (a articulação entre a escápula e o tórax) e uma área fisiológica onde fica o espaço supraumeral ou subacromial. A incidência das tendinopatias é responsável por cerca de 30% do número de doenças musculoesqueléticas seus sinais e sintomas mais comuns são caracterizados por dor crônica, diminuição da amplitude de movimento ativo, disfunção/perda na força muscular, calcificação e futuras rupturas tendíneas. A lesão do manguito rotador (LMR) é comum na prática ortopédica, responsável por cerca de 70% dos quadros de dor no ombro. Objetivo de enfatizar a importância da intervenção fisioterapêutica na reabilitação de paciente com tendinopatia e ruptura do supra espinhoso de forma a mostrar as possibilidades de tratamentos para trazer resultados satisfatórios tendo como bases de dados SCIELO, PUBMED, LILACS e LIVROS. Neste estudo, foi possível ver que as técnicas de fisioterapia foram de grande eficácia no tratamento da tendinopatia e ruptura do supra espinhoso, tendo assim melhorado o desempenho funcional e devolvido o mais rápido a paciente para suas AVD’s.
+
+
+
+ PALAVRAS-CHAVES : Tendinopatia, Fisioterapia , Ruptura do Supra Espinhoso 
+
+
+
+
+INTRODUCAO 
+
+O ombro é uma articulação de grande mobilidade do corpo humano e, consequência disso são as mais vulneráveis. A integridade e a funcionalidade dessa estrutura é fundamental para a ação conjunta do braço e do antebraço, cuja função e dar a mão amplitude de movimento tridimensional (HEBERT, et al., 2009).
+
+O complexo do ombro funciona como uma unidade envolvendo sua complexa relação entre suas diversas estruturas. Seus componentes constituem de: três ossos (úmero, clavícula e escápula), três articulações (esternoclavicular[EC], acromioclavicular[AC] e glenoumeral[GU]), uma “pseudoarticulação” (a articulação entre a escápula e o tórax) e uma área fisiológica onde fica o espaço supraumeral ou subacromial (DUTTON, 2010).
+
+Dentre as patologias com maior incidência do ombro estão os casos de tendinopatias, uma síndrome inflamatória crônica que ocorre dentro e ao redor do tendão. Em geral, é caracterizada por uma dor localizada, relacionada à atividades repetitivas ou traumas. O tendão normal é brilhante e branco, enquanto o tendão tendinopático é cinza ou marrom, macio, fino e frágil. A incidência das tendinopatias é responsável por cerca de 30% do número de doenças musculoesqueléticas. Sua etiologia é desconhecida, porém, fatores extrínsecos, como o ambiente, alongamento e aquecimento inadequados e ação muscular não sincrônica, parecem afetar a prevalência da mesma e recentemente os fatores intrínsecos como idade e sexo, têm contribuído para o seu aparecimento (NOGUEIRA JUNIOR, 2012).
+
+Os sinais e sintomas mais comuns da tendinopatia são caracterizados por dor crônica, diminuição da amplitude de movimento ativo, disfunção/perda na força muscular, calcificação e futuras rupturas tendíneas. E histopatologicamente pelo mau estado do tendão e degeneração, podendo evoluir para fatores de risco, incluindo a presença de uma anormalidade do tendão, causando maiores comprometimentos funcionais. As consequências presumíveis deste tipo e lesão de esforço causam alterações no bem-estar físico e psicossocial e qualidade de vida do paciente (PETERS et al, 2016).
+
+A lesão do manguito rotador (LMR) é comum na prática ortopédica, responsável por cerca de 70% dos quadros de dor no ombro. Sua ruptura está relacionada a indivíduos jovens devido a situações traumáticas, enquanto que nos pacientes idosos tem como etiologia a fragilidade tendinosa, com microtraumas repetitivos relacionados à anatomia acromial e pobre vascularização tendínea (CARVALHO et al, 2016).
+
+O tratamento pode ser conservador por meio da fisioterapia que dispõe de vários recursos para controlar a dor e a inflamação além de promover o reequilíbrio entre os vários grupos musculares, onde podem proporcionar um alívio das condições sintomatológicas e/ou etiológicas, buscando restabelecer a função normal do complexo articular do ombro
+
+Este estudo tem o objetivo de enfatizar a importância da intervenção fisioterapêutica na reabilitação de paciente com tendinopatia e ruptura do supra espinhoso de forma a mostrar as possibilidades de tratamentos para trazer resultados satisfatórios para os pacientes melhorando seu desempenho funcional e o retorno rápido as sua atividades de vida diária.
+
+METODOLOGIA 
+
+Trata-se de um relato de caso, realizado na Clínica Escola da Faculdade Vale do Salgado na cidade de Icó-ce. No mês de março do ano de 2018. Tendo como bases de dados SCIELO, PUBMED, LILACS e LIVROS. Os dados da paciente foram coletados com respaldo para o estudo.
+
+ RELATO DE CASO 
+
+Paciente M.L.L, 80 anos, sexo feminino, casada, residente da cidade de Icó Ceará, procurou atendimento de fisioterapia da clínica escola na Faculdade Vale do Salgado – FVS, queixando-se de dor no ombro direito e esquerdo . Na anamnese, relatou que sente as dores há 2 anos e que por alguns períodos teve seu braço direito inteiro com edema. A mesma também relatou que isso aconteceu devido a muito esforço repetitivo e com isso aumentou as dores e complicações. Apresenta um quadro de hipertensão depois da morte do filho, não toma os remédios regularmente, não é diabética e não fuma. Paciente de início foi submetida a uma avaliação fisioterapêutica, onde foi submetida a realizar alguns testes ortopédicos, testes de forca que avaliam a capacidade do musculo ou grupamento muscular em desenvolver tensão contra uma resistência, perimetria que e utilizado para mensurar edemas e linfedemas no corpo, goniometria uma técnica de avaliação muito usado na fisioterapia como diagnostico funcional para mensurar objetivamente as amplitudes de movimento articular.
+
+No exercício físico foram realizados alguns testes ortopédicos onde o Teste de Neer e Howkins deram negativos já os testes de Jobe, Yocum e o Teste do Braço Caído foram positivos para tendinopatia. Apresentou os seguintes graus de força para membros superiores: membro esquerdo – deltoide (III), supra espinhoso (III), peitoral maior e menor (III), bíceps (V), tríceps (V), flexores e extensores de punho (V). Para o membro direito – deltoide (III), supra espinhoso (III), peitoral menor e maior (III), bíceps (V), tríceps (V), flexores e extensores de punho (V). Na perimetria foi avaliado as seguintes medidas para os membros superiores: Direito – úmero proximal 38 e distal 32; cotovelo proximal 26 e distal 19/5; punho proximal 23 e distal 17.Esquerdo – úmero proximal 35 e distal 31; cotovelo proximal 24/5 e distal19; punho proximal 23 e distal 17. Na goniometria foram mensuradas as seguintes medidas dos movimentos em membros superiores.
+
+Flexão
+
+D- 152
+
+E- 140
+
+Normal 0-180
+
+Extensão
+
+D- 42
+
+E-30
+
+Normal 0-45
+
+Abdução
+
+D- 140
+
+E- 150
+
+Normal 0-180
+
+Adução
+
+D- 20
+
+E- 14
+
+Normal 0-40
+
+Rotação interna
+
+D- 72
+
+E- 62
+
+Normal 0-90
+
+Rotação externa
+
+D- 80
+
+E- 74
+
+Normal 0-90
+
+Ombro direito (D) e esquerdo (E)
+
+Flexão 
+
+D- 130
+
+E- 130
+
+Normal 0-145
+
+Extensão 
+
+D- 3
+
+E- 2
+
+Normal 145-0
+
+Cotovelo direito (D) e esquerdo (E)
+
+Flexão 
+
+D- 36
+
+E- 50
+
+Normal 0-90
+
+Extensão 
+
+D- 50
+
+E- 54
+
+Normal 0-70
+
+Pronação 
+
+D- 90
+
+E-90
+
+Normal 0-90
+
+Supinação 
+
+D- 60
+
+E-82
+
+Normal 0-90
+
+Desvio ulnar
+
+D- 30
+
+E-45
+
+Normal 0-45
+
+Desvio radial
+
+D- 18
+
+E-20
+
+Normal 0-20
+
+Punho direito (D) e esquerdo (E)
+
+Foi observado no diagnostico cinético – funcional  limitações de amplitude de movimento no ombro, dor articular, fraqueza de alguns músculos de membros superiores.
+
+PROTOCOLO DE ATENDIMENTO
+
+Sessões 
+
+Condutas 
+
+Objetivos 
+
+Series e repetições
+
+1°
+
+- Avaliação, sua principal queixa foi dores no ombro direito e esquerdo.
+
+
+
+- diminuir o quadro álgico em ombros
+
+
+
+2°
+
+- Diagonal flexora/extensora.
+
+- flexão/extensão de cotovelo com halteres de 1 kg.
+
+- Flexão de joelho com caneleira de 1 kg.
+
+- melhorar a ADM
+
+
+
+- ganhar ADM e fortalecer
+
+
+
+- fortalecimento de membros inferiores
+
+- 3 de 10
+
+
+
+- 3 de 10
+
+
+
+
+
+- 3 de 10
+
+3°
+
+- Bicicleta ergométrica.
+
+- Flexão de ombro com o taco.
+
+-  Diagonal flexora com liga elastica.
+
+
+
+- Adução com liga elástica no espaldar.
+
+- Aquecimento de MMII.
+
+- melhorar ADM.
+
+
+
+- Melhorar movimento de diagonal.
+
+- Fortalecimento de musculos adutores de ombro.
+
+- 8 minutos.
+
+
+
+- 3 de 12.
+
+
+
+- 3 de 10.
+
+
+
+
+
+- 3 de 10.
+
+
+
+4°
+
+- Alongamentos de rotadores internos e externos de ombro.
+
+- Mobilização em oito e tração.
+
+- Corrente Russa.
+
+- melhorar a flexibilidade de MMSS.
+
+- Relaxar a musculatura.
+
+- Fortalecimento manguito rotador. 
+
+- 30 segundos em cada.
+
+
+
+
+
+
+
+- 20 minutos
+
+5°
+
+- Alongamentos passivos.
+
+-  ADM passiva de ombro.
+
+- Abdução e extensão de ombro direito com liga elástica.
+
+-US pulsado.
+
+- Para melhorar a flexibilidade.
+
+- Para melhorar a flexibilidade.
+
+- Fortalecer MMSS.
+
+
+
+
+
+
+
+- Analgesia e anti-inflamatório.
+
+- 30 segundos em cada.
+
+30 segundos em cada.
+
+- 3seris de 12 repetições . 
+
+
+
+
+
+- 10 minutos
+
+6°
+
+- Alongamento passivo de mmss.
+
+- Alongamento passivo de mmii.
+
+- treino de equilíbrio, no disco proprioceptivo
+
+- Alongamento de cadeia lateral no espaldar.
+
+-  Flexão de ombro com liga elástica.
+
+ 
+
+- Melhorar flexibilidade.
+
+- Melhorar flexibilidade. 
+
+- Melhorar equilíbrio e propriocepção.
+
+
+
+- Aumentar flexibilidade.
+
+
+
+- Fortalecimento 
+
+- 30 segundos em cada.
+
+- 30 segundos em cada.
+
+
+
+
+
+
+
+- 30 segundos em cada.
+
+
+
+- 3 de 12
+
+7°
+
+- Alongamentos de MMSS.
+
+- Exercício postural na bola suíça.
+
+- Isometria MMII.
+
+
+
+- Flexão/extensão e abdução de ombro.
+
+- TENS no joelho (paciente relatava dores)
+
+- Melhorar flexibilidade.
+
+- De corrigir a postura da paciente.
+
+- Fortalecimento de MMII.
+
+- Fortalecimento de MMSS.
+
+- Para analgesia e alivio da dor
+
+- 30 segundos cada.
+
+
+
+
+
+
+
+
+
+
+
+- 3 de 12.
+
+
+
+- 15 minutos
+
+8°
+
+- Alongamentos de mmii e reavaliação da paciente.
+
+- Melhorar a flexibilidade de MMII. 
+
+- 30 segundos cada.
+
+
+
+RESULTADOS E DISCUSSÃO 
+
+Paciente realizou a reavaliação no seu oitavo atendimento, e teve algumas evoluções consideráveis e apresentou um bom quadro de evolução. Foi feito a perimetria, goniometria e teste de força. Na perimetria pode ser visto que em ambos membros superiores 
+
+Flexão 
+
+D 180
+
+E 172
+
+Normal 0-180
+
+Extensão 
+
+D 45
+
+E 40
+
+Normal 0-45
+
+Abdução 
+
+D 180
+
+E 151
+
+Normal 0-180
+
+Adução 
+
+D 40
+
+E 30
+
+Normal 0-40
+
+Rotação interna
+
+D 75
+
+E 72
+
+Normal 0-90
+
+Rotação externa
+
+D 83
+
+E 80
+
+Normal 0-90
+
+Reavaliação de ombro direito (D) e esquerdo (E)
+
+Flexão 
+
+D 145
+
+E 135
+
+Normal 0-145
+
+Extensão 
+
+D 0
+
+E 0
+
+Normal 145-0
+
+Reavaliação de cotovelo direito (D) e esquerdo (E)
+
+Flexão 
+
+D 80
+
+E 70
+
+Normal 0-90
+
+Extensão
+
+D 60
+
+E 70
+
+Normal 0-70
+
+Pronação
+
+D 90
+
+E 90
+
+Normal 0-90
+
+Supinacão
+
+D 90
+
+E 90
+
+Normal 0-90
+
+Desvio ulnar
+
+D 40
+
+E 45
+
+Normal 0-45
+
+Desvio radial
+
+D 20
+
+E 20
+
+Normal 0-20
+
+Reavaliação de punho direito (D) e esquerdo (E)
+
+A tendinopatia consiste em um processo inflamatório do tendão do supra espinhoso, que compõe a estrutura do chamado manguito rotador. Este músculo por sua vez tem como principal função a realização da elevação e abdução do braço. Devido a sua alta prevalência na população, a tendinite do supra espinhoso é uma das principais patologias relacionadas a LER/DORT.
+
+CARVALHO et al, (2015) diz que o predomínio das lesões intra-articulares talvez seja explicado pelas as suas  características bursais e intra-articulares do tendão, que são diferentes. A camada bursal é composta primariamente por bandas tendinosas com uma maior capacidade de alongamento e, portanto, maior resistência à ruptura. Enquanto que a face articular é composta por um complexo de tendões, cápsula e ligamentos. Tem como características pouca distensibilidade e maior predisposição para ruptura.
+
+Segundo FARIAL et al, (2015) fala que o ultrassom é um recurso fisioterapêutico utilizado em várias patologias do sistema musculoesquelético como objetivo de controlar os sinais inflamatórios, estimular a fibroplasia, a osteogênese e a modulação da dor. O que determina a profundidade de penetração da onda mecânica no tecido é a frequência do ultrassom, sendo que ela é inversamente proporcional à profundidade de penetração e diretamente proporcional à absorção pelo tecido.
+
+Já MELISCKI et al, (2013) diz que a fisioterapia disponibiliza vários métodos terapêuticos que podem e devem ser adotados no tratamento das tendinopatias. Entre os recursos mais aplicados na reabilitação das afecções tendíneas, estão a cinesioterapia convencional e o ultrassom.
+
+Para GOMES E MEJIA ( 2010) a cinesioterapia é o principal recurso na reabilitação do ombro. Sendo indicada a todas as patologias dolorosas do ombro, este recurso fisioterapêutico é uma ferramenta indispensável para a recuperação do paciente. Ainda na cinesioterapia encontramos os exercícios para fortalecimento muscular, dentre eles estão os exercícios resistidos que podem ser feitos também em isometria, onde a musculatura contrai, mas não há diminuição do seu comprimento e nem movimentação da articulação.
+
+NETO et al, (2013) diz que o alongamento da unidade musculotendinea, reduz significativamente a tensão passiva do tecido, com consequente aumento da ADM. Além disso, os músculos do manguito rotador induzem a abdução da escápula, que e contrabalanceada pelos músculos romboides e elevador da escápula e pelas fibras superiores do trapézio.
+
+A fim de discutir as melhores técnicas fisioterápicas para tratar tendinopatias SOUSA E SILVA (2016) complementa que existe uma demanda incessante por modalidades terapêuticas que promovam uma melhoria mais rápida de lesões musculoesqueléticas e osteo-articulares na espécie humana. Os tratamentos convencionais buscam inicialmente o alívio da dor e a solução do processo inflamatório, porém os resultados nem sempre são satisfatório.
+
+MELISCHI et al, (2013) também fala que hoje, existem inúmeras alternativas de tratamento para as tendinopatias desde as já conhecidas, como a eletroterapia e a cinesioterapia, até as novas modalidades terapêuticas, como a  terapia por ondas de choque extracorpórea e o plasma rico em plaquetas. Entretanto, fatores como variação de resultados obtidos entre os diversos estudos e a dificuldade de acesso podem dificultar a decisão de qual modalidade terapêutica deve ser adotada.
+
+MOSER et al, (2010) diz que todo tratamento possui riscos e benefícios e cabe ao terapeuta ser capaz de investiga-lo minuciosamente para melhor seleção dos recursos e o modo de utilizá-los. Para que isto aconteça é necessário que se tenha pleno conhecimento das bases teóricas dos conceitos que asseguram as práticas terapêuticas. Portanto, as discussões poderão favorecer uma reflexão sobre estes conceitos, colaborando para tomada de decisões clínicas e terapêuticas e aumentando a eficácia das práticas.
+
+CONCLUSÃO
+
+Neste estudo, foi possível ver que o protocolo utilizado apresentou um resultado positivo e o mesmo teve grande eficácia no tratamento da tendinopatia e ruptura do supra espinhoso, no que se diz respeito a melhora funcional, a dor e a amplitude de movimento em pacientes com disfunções no ombro. Devolvendo assim o mais rápido para suas AVD’s. 
+
+
+
+
+
+REFERENCIAS 
+
+CARVALHO, A. L; MARTINELLI, F; TRAMUJAS, F; BAGGIO, M; CROCETTA, M. S; MARTINS, R. O. Lesões do manguito rotador e fatores associados à reoperação. Revista brasileira de ortopédica. 2016; 51(3): 298-302
+
+CARVALHO, C. D; COHEN, C; BELANGERO, P. S; FIGUEREDO, E. A; MONTEIRO, G. C; POCHINI, A. C; ANDREOLI, C. V; EJNISMAN, B. Lesão parcial do manguito rotador no atleta-bursal ou articular. Revista brasileira de ortopédica. 2015; 50(4): 416-421
+
+DUTTON, M. Fisioterapia ortopédica exame, avaliação e intervenção. 2° ed, Porto Alegre. Artmed, 2010.
+
+FARIAL, J. C; NASCIMENTO, F. J. S; KELLY, A; MARTINHO, K. Efeitos do ultrassom terapêutico na tendinite calcária do supra espinhal. Viçosa-MG. V7, N.1, p.132-136. Jan. dez 2015.
+
+GOMES, E. A; MEJIA, D. P. M. A eficácia dos recursos fisioterapêuticos utilizados no tratamento da tendinite do supra-espinhoso. 2010  
+
+HEBERT, S; BARROS FILHO, T. E. P; XAVIER, P; PARDINI JR, A. G. Ortopedia e traumatologia princípios e prática. 4° ed. Porto Alegre. Artmed, 2009. 
+
+MELISCKI, G. A. et al. Diferentes modalidades terapêuticas no tratamento da tendinopatia do supraespinhoso. Revista Brasileira Promoção e Saúde, Fortaleza, v. 26, n. 2, p. 201-207, abr./jun. 2013.
+
+MOSER, A. D. L.; MALUCELLI, M. F.; BUENO, S. N. Cadeia cinética aberta e fechada: uma reflexão crítica. Fisioterapia em movimento, Curitiba, Paraná, v. 23, n. 4, p. 641-650, out./dez. 2010
+
+NETO, B. O; PEREA, C. C. A; MACHINSKI, F; FREZ, A. R; RUANO, J. A; RAIMARDI, M. C. Efeito de um protocolo fisioterapêutico para as disfunções decorrentes das tendinopatias do ombro. Revista ciência e saúde, Porto Alegre, v.6, n.1, p.37-43, jan/abr. 2013.
+
+NOGUEIRA JUNIOR, A. C.; MOURA JUNIOR, M. J. Efeitos do uso do laser no tratamento de tendinopatias: uma revisão sistemática. Acta Ortopédica Brasileira. Teresina, PI, v. 23, n. 1, p. 47-9, 2015.
+
+PETERS, J. A. et al. As intervenções preventivas para tendinopatia: Uma revisão sistemática. Journal of Science and Medicine in Sport, Austrália, v. 19, n. 3, p. 205-211, mar. 2016.
+
+SOUZA, M. S.; SILVA, M. O. Laserterapia em afecções locomotoras: revisão sistemática de estudos experimentais. Revista Brasileira Med Esporte, Viçosa, Minas Gerais, v. 22, n. 1, p. 76-82, jan./fev. 2016
+
+SCHIEFER, M; CHING-SAN JUNIOR, Y. A; SILVA, S. M; FONTENELLE, C; CARVALHO, M, G, D; FARIA, F. G; FRANCO, J. S. Diagnostico clinico da ruptura do tendão subescapular com a manobra semiológica Behar Hugo. Revista Brasileira de Ortopedia. p. 588-592. 2012
