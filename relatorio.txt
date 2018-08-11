@@ -1,0 +1,226 @@
+RELATÓRIO DA ANALISE DE PRONTUÁRIOS
+
+1. LISTA DE PRONTUÁRIOS
+   1.1. ABORDAGEM FISIOTERAPEUTICA NA PÓS PROTETIZAÇÃO DE MMII.docx.txt
+   1.2. artigo concluido.docx.txt
+   1.3. ARTIGO DE FINAL DE CICLO TRAUMATO.docx.txt
+   1.4. artigo estagio.docx.txt
+   1.5. artigo kilvya traumato FORMATADO.docx.txt
+   1.6. artigo trauma - Monick quase terminado.docx.txt
+   1.7. ombro j.docx.txt
+   1.8. Relatório-Traumato.docx.txt
+
+2. LISTA DE PALAVRAS-CHAVE
+   2.1. Artrose
+   2.2. Flexão
+   2.3. Patela
+
+3. OCORRÊNCIAS DE PALAVRAS-CHAVE POR PRONTUÁRIO
+   3.1. ABORDAGEM FISIOTERAPEUTICA NA PÓS PROTETIZAÇÃO DE MMII.docx.txt
+        -Flexão
+        -Patela
+   3.2. artigo concluido.docx.txt
+        -Artrose
+        -Flexão
+   3.3. ARTIGO DE FINAL DE CICLO TRAUMATO.docx.txt
+        -Flexão
+        -Patela
+   3.4. artigo estagio.docx.txt
+        -Flexão
+   3.5. artigo kilvya traumato FORMATADO.docx.txt
+        -Flexão
+   3.6. artigo trauma - Monick quase terminado.docx.txt
+        -Flexão
+        -Patela
+   3.7. ombro j.docx.txt
+        -Flexão
+   3.8. Relatório-Traumato.docx.txt
+        -Flexão
+
+4. SENTENCAS ONDE OCORREM AS PALAVRAS-CHAVE
+   4.1. ABORDAGEM FISIOTERAPEUTICA NA PÓS PROTETIZAÇÃO DE MMII.docx.txt
+        4.1.1. Flexão
+             4.1.1.1. Linha 12
+                Aumento da amplitude de movimento, sendo que na primeira avaliação havia uma diminuição da ADM para flexão de quadril esquerdo, abdução de quadril esquerdo.
+             4.1.1.2. Linha 109
+               Flexão de Quadril D: 130°
+
+             4.1.1.3. Linha 111
+               Flexão de Quadril E: 100°
+
+             4.1.1.4. Linha 143
+                Com objetivo de ganhar força muscular em quadríceps e isquiotibiais , e o modo sincrônico no quadríceps, tempo de subida: 3s; tempo de descida: 2s; tempo ON: 5s; tempo OFF: 16s; frequência: 60HZ, e com auxílio da faixa elástica de intensidade moderada movimento de flexão de quadril associada a uma contração voluntaria do músculos por 10 segundos.
+             4.1.1.5. Linha 227
+               Através da goniometria foi possível verificar aumento da amplitude de movimento (ADM), sendo que na primeira avaliação havia uma diminuição da ADM para flexão de quadril esquerdo 100°, abdução de quadril esquerdo 35°, após uma nova avaliação flexão de quadril esquerdo 130°, abdução de quadril esquerdo 45°.
+        4.1.2. Patela
+             4.1.2.1. Linha 64
+                Na desarticulação de joelho a patela é preservada e os músculos são reinseridos na cicatriz, geralmente na região posteroinferior do coto ( NOVAIS et al, 2014).
+   4.2. artigo concluido.docx.txt
+        4.2.1. Artrose
+             4.2.1.1. Linha 36
+                D, sexo feminino, 61 anos, doméstica, naturalidade de Icó-Ce, com diagnóstico clínico de lesão de menisco lateral do joelho esquerdo, relatou que há 10 anos sofreu uma queda no banheiro, foi ao médico onde o mesmo solicitou uma ressonância magnética apresentando desgaste, cisto, osteoporose e artrose, na segunda vez foi observado lesão de menisco.
+        4.2.2. Flexão
+             4.2.2.1. Linha 26
+                Transmitem aproximadamente 50% das forças de sustentação do peso na extensão e 85% na flexão (DUTTON, 2010).
+             4.2.2.2. Linha 38
+                Chegou ao atendimento fisioterapêutico de traumato apresentando dor no joelho, dificuldade de realizar movimentos de flexão e extensão do joelho, diminuição da amplitude de movimento e fraqueza muscular.
+             4.2.2.3. Linha 40
+               Tem-se como sintomas Dor, inchaço, sensação de perda de controle do joelho e redução da amplitude de movimento tanto de extensão como flexão de joelho.
+             4.2.2.4. Linha 44
+               Na segunda semana foram utilizados a corrente Russa com o objetivo de fortalecer o quadríceps utilizando os seguintes parâmetros: F: 40 Hz, LP:100, MODO: sincrônico, SUB: 2, SUST: 4, DEC: 2, T: 20 minutos e ciclo ergômetro com objetivo de melhorar os movimentos de flexão e extensão de joelho.
+             4.2.2.5. Linha 52
+               A paciente foi orientada a fazer exercícios de flexão e extensão de joelho com auxílio de uma bola para ganhar amplitude de movimento e fazer alongamento dos isquiotibiais com o intuito de ganhar flexibilidade.
+             4.2.2.6. Linha 58
+                Foi priorizado os exercícios de fortalecimento muscular com o uso da corrente russa com os seguintes parâmetros : F: 40 Hz, LP: 90, MODO, sincrônico, SUB: 2, SUST;  4, CAIDA: 2; OFF; 8, T: 15 minutos, com objetivo de fortalecimento de quadríceps, agachamento na bola suíça com auxílio do espaldar para fortalecer MMII, alongamento dos Isquiotibiais para ganhar flexibilidade e amplitude de movimento, massoterapia para o alivio da dor e promover relaxamento, mobilização patelar com intuito de ganhar mobilidade e ganhar ADM, ciclo ergômetro para fortalecimento dos MMII e melhorar os movimentos de flexão e extensão de joelho, Tens com o objetivo de causar analgesia, utilizando os seguintes parâmetros: F: 120 Hz, LP: 50, MODO: convencional, T: 20 minutos.
+             4.2.2.7. Linha 88
+               Flexão
+
+             4.2.2.8. Linha 94
+               Flexão
+
+             4.2.2.9. Linha 124
+               Flexão
+
+             4.2.2.10. Linha 130
+               Flexão
+
+   4.3. ARTIGO DE FINAL DE CICLO TRAUMATO.docx.txt
+        4.3.1. Flexão
+             4.3.1.1. Linha 156
+               Para diagnostico desse tipo de fratura podem ser realizados exames físicos, anamnese e exames de imagens, o principal usado é a radiografia, geralmente os sintomas são: dor, sensibilidade na cabeça da fíbula ou na patela, restrição de ADM, principalmente na flexão de joelho e, dificuldade em suportar o próprio peso (ALONSO, et al, 2015).
+             4.3.1.2. Linha 182
+               M, sexo masculino, 41 anos de idade, casado, Professor de ensino fundamental, morador da Rua N, cidade nova Icó, foi admitido para o atendimento fisioterapêutico do setor de Traumato-Ortopedia, com diagnóstico clínico de fratura de patela da articulação do joelho direito, referiu como queixa principal dor ao movimento de flexão de joelho na região anterior.
+             4.3.1.3. Linha 186
+               A avaliação de amplitude movimento foi realizada completamente ativa e avaliada com o goniômetro, e foram obtidos os seguintes resultados: Flexão de quadril direito: 100º; Flexão de quadril esquerdo: 100°; Extensão de quadril direito 16°; Extensão de quadril esquerdo 12°; Abdução de quadril direito: 40°, Abdução de quadril esquerdo: 36°; Adução de quadril direito: 20°, Adução de quadril esquerdo: 26°; Rotação interna de quadril direito: 30°, Rotação interna de quadril esquerdo: 36°; Rotação externa de quadril direito: 30°, Rotação externa de quadril esquerdo: 30°; Flexão de joelho direito: 70°, Flexão de joelho esquerdo: 116°; Flexão plantar de tornozelo direito: 36°, Flexão plantar de tornozelo esquerdo: 54°; Dorsiflexão de tornozelo direito: 10°, Dorsiflexão de tornozelo esquerdo: 10°; Inversão de tornozelo direito: 30°, Inversão de tornozelo esquerdo: 20°; Eversão de tornozelo direito: 6°, Eversão de tornozelo esquerdo: 20°.
+             4.3.1.4. Linha 196
+               Com base na Avaliação Fisioterapêutica, elaborou-se o seguinte Diagnostico Cinético Funcional: Quadro álgico na região superior da patela e linha articular do joelho ao movimento, redução de amplitude de movimento do joelho direito principalmente, no movimento de flexão, leve edema no joelho direito, que foi contatado através da perimetria, e pequena fraqueza muscular, observada através do uso da escala de Oxford.
+             4.3.1.5. Linha 198
+               A partir do diagnóstico cinético funcional os objetivos almejados para com esse paciente foram: Diminuir a dor na região do joelho; ganhar amplitude de movimento articular, principalmente flexão de joelho; diminuir edema do joelho direito e, ganhar força muscular no membro inferior acometido.
+             4.3.1.6. Linha 208
+               Com base nos dados obtidos na reavaliação pode observar uma melhora significativa em relação a amplitude, que teve um ganho de 20° no movimento de flexão de joelho direito e, grau de força muscular na qual o paciente saiu do grau 4° na escala de Oxford para grau 5°, com relação a de quadríceps, isquiostibiais e iliopsoas da perna acometida (falta a conclusão da reavaliação).
+             4.3.1.7. Linha 236
+               Com base nos dados obtidos na reavaliação pode observar uma melhora significativa em relação a amplitude, que teve um ganho de 20° no movimento de flexão de joelho direito e, grau de força muscular na qual o paciente saiu do grau 4° na escala de Oxford para grau 5°, com relação a de quadríceps, isquiostibiais e iliopsoas da perna acometida, proporcionando a melhora na deambulação do paciente, podendo esta pesquisa vir a colaborar para a elaboração de trabalhos futuros ou, fontes de estudo para o meio acadêmico e profissional, evidenciando assim a importância do acompanhamento e tratamento fisioterapêutico na reabilitação de pacientes com diagnóstico de fratura patelar.
+             4.3.1.8. Linha 285
+                Objetivo ganhar ADM do joelho direito em flexão;
+
+             4.3.1.9. Linha 287
+               -No final do atendimento foi dado a orientação para o paciente usar compressas quentes na região anterior e posterior da coxa e sentar forçando flexão de joelho.
+             4.3.1.10. Linha 295
+                Objetivo ganhar ADM do joelho direito em flexão;
+
+             4.3.1.11. Linha 297
+               -Exercício resistido com caneleira de 3kg para MI direito para o movimento de flexão de joelho, em 3 series de 12 repetições com sustentação de 30 segundos a cada serie.
+             4.3.1.12. Linha 299
+                Objetivo: ganho de ADM em flexão de joelho e fortalecimento muscular de toda região da coxa.
+             4.3.1.13. Linha 311
+               -Exercício de flexão de joelho no espaldar, 4 series de 10 repetições com intervalo de 15 segundos a cada serie.
+             4.3.1.14. Linha 317
+               -Foi dada a orientação para o paciente ficar forçando a flexão do MI direito sempre que tiver tempo.
+             4.3.1.15. Linha 325
+               -Exercício de flexão do joelho direito no espaldar em 4 series de 10 repetições com intervalo de 15 segundos.
+        4.3.2. Patela
+             4.3.2.1. Linha 144
+               A patela é o maior osso sesamoide do corpo humano, e localiza-se no suco intercondilar do fêmur, ela é responsável por aumentar o braço de alavanca do grupo muscular quadríceps, proporcionando uma maior vantagem mecânica, além de ser responsável de proteger o joelho de golpes anteriores (HOUGGLUM, 2015).
+             4.3.2.2. Linha 152
+               Diagnosticar fratura de patela é simples pois, a articulação do joelho encontra-se com grave edema devido à hemartrose, algumas vezes, a articulação pode-se encontrar também menos distendida devido á difusão da hemorragia dentro dos tecidos moles adjacentes.
+             4.3.2.3. Linha 156
+               Para diagnostico desse tipo de fratura podem ser realizados exames físicos, anamnese e exames de imagens, o principal usado é a radiografia, geralmente os sintomas são: dor, sensibilidade na cabeça da fíbula ou na patela, restrição de ADM, principalmente na flexão de joelho e, dificuldade em suportar o próprio peso (ALONSO, et al, 2015).
+             4.3.2.4. Linha 160
+               A intervenção cirúrgica usualmente usada para o tratamento das fraturas transversais da patela atualmente é redução aberta com uma incisão suficiente e fixação interna usando um fio kirschner como método da banda de tensão modificada.
+             4.3.2.5. Linha 164
+               A fisioterapia entra na reabilitação da fratura de patela com os seguintes objetivos: Diminuir o edema; eliminar o quadro álgico; prevenir deformidades; evitar aderência cicatricial; aumentar a amplitude de movimento; aumentar o trofismo e o tônus muscular; melhorar a propriocepção; treinar o equilíbrio e reeducar a marcha, além da confecção de órtese (MARSCHNER, et al, 2015)
+
+             4.3.2.6. Linha 182
+               M, sexo masculino, 41 anos de idade, casado, Professor de ensino fundamental, morador da Rua N, cidade nova Icó, foi admitido para o atendimento fisioterapêutico do setor de Traumato-Ortopedia, com diagnóstico clínico de fratura de patela da articulação do joelho direito, referiu como queixa principal dor ao movimento de flexão de joelho na região anterior.
+             4.3.2.7. Linha 194
+               Os exames complementares disponibilizados pelo paciente foram, alguns exames de imagens: radiografia de incidência postero-anterior e em perfil do joelho lesionado (direito), com o laudo de presença de fixador e fio de aço na patela direita com a presença de pequeno processo de consolidação da fratura.
+             4.3.2.8. Linha 196
+               Com base na Avaliação Fisioterapêutica, elaborou-se o seguinte Diagnostico Cinético Funcional: Quadro álgico na região superior da patela e linha articular do joelho ao movimento, redução de amplitude de movimento do joelho direito principalmente, no movimento de flexão, leve edema no joelho direito, que foi contatado através da perimetria, e pequena fraqueza muscular, observada através do uso da escala de Oxford.
+             4.3.2.9. Linha 254
+                A; Reabilitação nas fraturas da patela: revisão da literatura, Revista Digital.
+             4.3.2.10. Linha 258
+               SAYUM FILHO, J, Intervenções para o Tratamento das Fraturas de Patela em: Revisão Sistemática, SÃO PAULO, 2014.
+             4.3.2.11. Linha 293
+                Objetivo: ganhar mobilidade da patela;
+
+             4.3.2.12. Linha 307
+                Objetivo: ganhar mobilidade da patela direita;
+
+   4.4. artigo estagio.docx.txt
+        4.4.1. Flexão
+             4.4.1.1. Linha 46
+                Os principais tipos de bursite é a subacromial e a trocantérica, a subacromial é caracterizada pela presença de dor nos ombros durante a realização de determinados movimentos de ombro como abdução, rotação externa e flexão.
+             4.4.1.2. Linha 90
+               Durante a realização da avaliação ortopédica foram encontrados alguns distúrbios cinéticos funcionais, são eles: redução da ADM para os movimentos de flexão de ombro, extensão de ombro, flexão de joelho, fraqueza dos músculos quadríceps femoral, isquiostibiais.
+             4.4.1.3. Linha 98
+               O treino de marcha foi incluso desde a primeira semana de atendimento, visando adequar à marcha da mesma, realizando os movimentos de flexão de joelho e quadril, onde foi montado um circuito com cones (3 séries de 10 repetições).
+             4.4.1.4. Linha 162
+                Na goniometria inicial foi detectado redução da amplitude de movimento para flexão do joelho esquerdo (90°), evoluindo no ultimo atendimento para (100°), representando um aumento de 10°, onde foi evidenciando a eficácia dos alongamentos.
+             4.4.1.5. Linha 174
+               Gráfico 1: Amplitude de movimento pra o movimento de flexão e extensão de ombro esquerdo
+
+             4.4.1.6. Linha 180
+               Gráfico 2: Amplitude de movimento flexão do joelho esquerdo.
+             4.4.1.7. Linha 240
+                No entanto a mobilização patelar é de suma importância na fase de reabilitação promovendo mobilidade articular para que a mesma possa deslizar sobre o fêmur no sentido distal durante uma flexão de joelho normal e deslizar no sentido proximal durante o movimento de extensão (KISNER e COLBY, 2016).
+             4.4.1.8. Linha 244
+               Os exercícios de cadeia cinética aberta para os movimentos de flexão e extensão de joelho, abdução e adução de quadril irão fortalecer os músculos quadríceps femoral e isquiotibiais, adutor longo, grácil, adutor magno e pectíneo consequentemente acelerando o processo de ganho de força muscular (CALDAS et al, 2012).
+   4.5. artigo kilvya traumato FORMATADO.docx.txt
+        4.5.1. Flexão
+             4.5.1.1. Linha 57
+               Flexão
+
+             4.5.1.2. Linha 107
+               Flexão 
+
+             4.5.1.3. Linha 125
+               Flexão 
+
+             4.5.1.4. Linha 201
+               - flexão/extensão de cotovelo com halteres de 1 kg.
+             4.5.1.5. Linha 203
+               - Flexão de joelho com caneleira de 1 kg.
+             4.5.1.6. Linha 231
+               - Flexão de ombro com o taco.
+             4.5.1.7. Linha 337
+               -  Flexão de ombro com liga elástica.
+             4.5.1.8. Linha 381
+               - Flexão/extensão e abdução de ombro.
+             4.5.1.9. Linha 427
+               Flexão 
+
+             4.5.1.10. Linha 477
+               Flexão 
+
+             4.5.1.11. Linha 495
+               Flexão 
+
+   4.6. artigo trauma - Monick quase terminado.docx.txt
+        4.6.1. Flexão
+             4.6.1.1. Linha 84
+               Na avaliação fisioterapêutica apresentou na goniometria redução da amplitude de movimento do membro inferior esquerdo com os seguintes graus de amplitudes nos devidos movimentos flexão 100° , adução 10°,  abdução 20°, extensão 8°, rotação externa 30°, rotação interna 30° na articulação do quadril do membro afetado, houve redução da ADM do joelho do mesmo lado afetado em flexão 90°, nas demais articulações não houve redução da amplitude.
+             4.6.1.2. Linha 88
+               Nas semanas seguintes foram realizadas as seguintes condutas: Bicicleta horizontal para aquecimento do quadríceps durante 10 minutos, alongamentos das musculaturas de isquiostibiais , quadríceps, iliopsoas, abdutores e adutores, durante 3 séries de 20 segundos bilateralmente, para melhorar flexibilidade das musculaturas envolvidas, foi realizado tríplice flexão com 3 séries de 12 repetições com objetivo de nutrir e estimular a produção do liquido sinovial.
+             4.6.1.3. Linha 104
+               No presente estudo o paciente acima citado  obteve melhora significativa em ganhos de amplitude de movimento articular para todos os movimentos do quadril, e para flexão de joelho também.
+        4.6.2. Patela
+             4.6.2.1. Linha 88
+                Foi executado também exercícios funcionais de flexão e extensão com auxílio da bola, para fortalecimento de quadríceps com ênfase em iliopsoas, exercícios resistidos para abdutores com caneleira de 2kg com 4 séries de repetições, fortalecimento de adutores com anel de pilates com 4 séries de 12 repetições, mobilização de patela e manobra de fundo de saco para ganhar mobilidade e nutrir articulação durante 3 minuto.
+   4.7. ombro j.docx.txt
+        4.7.1. Flexão
+             4.7.1.1. Linha 26
+               Na avaliação fisioterapêutica foi realizado a goniometria onde foi visto a redução da amplitude de movimento do ombro em comparação ao membro contra lateral não afetado, foi obtido os seguintes graus de amplitude, na flexão 80°, extensão 30°, abdução 90°, adução 40°, rotação interna 50°, rotação externa 0°, nas articulações distais não houve redução da amplitude.
+             4.7.1.2. Linha 28
+               Durante o tratamento foram realizadas as seguintes condutas, exercícios de flexão, abdução, adução, rotação interna e externa utilizando o bastão, exercícios com a faixa elástica em diagonais, todos com o objetivo de ganhar amplitude de movimento, com 4x de 10 a 12 repetições.
+             4.7.1.3. Linha 46
+               Foi possível concluir que a reabilitação feita no paciente obteve bons resultados, tendo assim o ganho de amplitude nos movimentos de flexão, abdução e rotação interna.
+   4.8. Relatório-Traumato.docx.txt
+        4.8.1. Flexão
+             4.8.1.1. Linha 42
+               Constatou-se diminuição significativa para os movimentos de flexão, abdução, adução, rotação interna e externa de ombro direito em relação ao membro contralateral.
+             4.8.1.2. Linha 62
+               Flexão
+
+             4.8.1.3. Linha 104
+               Flexão
+

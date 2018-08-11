@@ -157,6 +157,7 @@ for ocorrencia in lista_ocorrencias:
 		num_linha = ocorrencia.get_num_linha()
 		topico_linha = topico_keyword + "." + str(indice_linha)
 		print(IDENTACAO_TRIPLA + "4." + topico_linha + ". Linha " + str(num_linha))
+		print(IDENTACAO_QUADRUPLA + ocorrencia.get_sentenca())		
 """
 	for keyword in range(len(keywords)):
 		print("\t2." + numero_do_topico + ". " + keywords[indice])
