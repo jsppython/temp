@@ -3,8 +3,12 @@ import glob
 import json
 
 # Constantes
-ARQ_DE_KEYWORDS = r"keywords.txt"
+ARQ_DE_KEYWORDS = "keywords.txt"
 PATH_PRONTUARIOS = r".\prontuarios"
+IDENTACAO_SIMPLES = "   "
+IDENTACAO_DUPLA = "        "
+IDENTACAO_TRIPLA = "             "
+IDENTACAO_QUADRUPLA = "               "
 
 # Classe Utilitarios, agrupamento de funções genéricas
 class Utils:
@@ -46,12 +50,24 @@ class Utils:
 # Classe Ocorrencia, representa a o ocorrência de uma palavra-chave
 # em uma sentença em uma linha em um prontuário.
 class Ocorrencia:
-	def __init__(self, nome_arquivo, num_linha, keyword, sentenca):
-		self.nome_arquivo = nome_arquivo
+	def __init__(self, nome_prontuario, num_linha, keyword, sentenca):
+		self.nome_prontuario = Utils.extrair_nome_arquivo(nome_prontuario)
 		self.num_linha = num_linha
 		self.keyword = keyword
 		self.sentenca = sentenca
 
+	def get_nome_prontuario(self):
+		return self.nome_prontuario
+	
+	def get_keyword(self):
+		return self.keyword
+	
+	def get_num_linha(self):
+		return self.num_linha
+		
+	def get_sentenca(self):
+		return self.sentenca
+		
 # Percorrer todos os prontuarios. Para cada prontuário, verificar
 # a ocorrência das palavras-chave. Guardar as sentenças onde as
 # palavras-chave foram encontradas.
@@ -79,25 +95,87 @@ print("1. LISTA DE PRONTUÁRIOS")
 for indice in range(len(prontuarios)):
 	numero_do_topico = str(indice + 1)
 	nome_do_prontuario = Utils.extrair_nome_arquivo(prontuarios[indice])
-	print("\t1." + numero_do_topico + ". " + nome_do_prontuario)
+	print(IDENTACAO_SIMPLES + "1." + numero_do_topico + ". " + nome_do_prontuario)
 print()
 
 ## Lista de Palavras-chave
 print("2. LISTA DE PALAVRAS-CHAVE")
 for indice in range(len(keywords)):
 	numero_do_topico = str(indice + 1)
-	print("\t2." + numero_do_topico + ". " + keywords[indice])
+	print(IDENTACAO_SIMPLES + "2." + numero_do_topico + ". " + keywords[indice])
 print()
 
-## Lista de 
+## Lista de palavras-chave diferentes por prontuário
+print("3. OCORRÊNCIAS DE PALAVRAS-CHAVE POR PRONTUÁRIO")
+indice_prontuario = 0
+indice_keyword = 0
+prontuario_anterior = ""
+keyword_anterior = ""
+for ocorrencia in lista_ocorrencias:
+	nome_do_prontuario = ocorrencia.get_nome_prontuario()
+	if not nome_do_prontuario == prontuario_anterior:
+		indice_prontuario += 1
+		numero_do_topico_prontuario = str(indice_prontuario)
+		prontuario_anterior = nome_do_prontuario
+		print(IDENTACAO_SIMPLES + "3." + numero_do_topico_prontuario + ". " + nome_do_prontuario)
+		keyword_anterior = ""
+	keyword = ocorrencia.get_keyword()
+	if not keyword == keyword_anterior:
+		keyword_anterior = keyword
+		print(IDENTACAO_DUPLA + "-" + keyword)
+print()
+
+## Lista de sentencas com palavras-chave por prontuário	
+print("4. SENTENCAS ONDE OCORREM AS PALAVRAS-CHAVE")
+indice_prontuario = 0
+indice_keyword = 0
+indice_linha = 0
+prontuario_anterior = ""
+keyword_anterior = ""
+for ocorrencia in lista_ocorrencias:
+	nome_do_prontuario = ocorrencia.get_nome_prontuario()
+	if not nome_do_prontuario == prontuario_anterior:
+		indice_prontuario += 1
+		numero_do_topico_prontuario = str(indice_prontuario)
+		prontuario_anterior = nome_do_prontuario
+		print(IDENTACAO_SIMPLES + "4." + numero_do_topico_prontuario + ". " + nome_do_prontuario)
+		keyword_anterior = ""
+		indice_keyword = 0
+	keyword = ocorrencia.get_keyword()
+	if not keyword == keyword_anterior:
+		indice_keyword += 1
+		keyword_anterior = keyword
+		topico_keyword = str(indice_prontuario) + "." + str(indice_keyword)
+		print(IDENTACAO_DUPLA + "4." + topico_keyword + ". " + keyword)
+		indice_linha = 1
+		num_linha = ocorrencia.get_num_linha()
+		topico_linha = topico_keyword + "." + str(indice_linha)
+		print(IDENTACAO_TRIPLA + "4." + topico_linha + ". Linha " + str(num_linha))
+		print(IDENTACAO_QUADRUPLA + ocorrencia.get_sentenca())
+	else:
+		indice_linha += 1
+		num_linha = ocorrencia.get_num_linha()
+		topico_linha = topico_keyword + "." + str(indice_linha)
+		print(IDENTACAO_TRIPLA + "4." + topico_linha + ". Linha " + str(num_linha))
 """
-print("3. OCORRÊNCIAS DE PALAVRAS-CHAVE POR ARQUIVO")
-for indice in range(len(prontuarios)):
-	numero_do_topico = str(indice + 1)
-	nome_do_prontuario = Utils.extrair_nome_arquivo(prontuarios[indice])
-	print("\t3." + numero_do_topico + ". " + nome_do_prontuario)
 	for keyword in range(len(keywords)):
 		print("\t2." + numero_do_topico + ". " + keywords[indice])
+		
+		
+for ocorrencia in lista_ocorrencias:
+	nome_do_prontuario = ocorrencia.get_nome_prontuario()
+	if not nome_do_prontuario == prontuario_anterior:
+		indice_prontuario += 1
+		numero_do_topico_prontuario = str(indice_prontuario)
+		prontuario_anterior = nome_do_prontuario
+		print(IDENTACAO_SIMPLES + "3." + numero_do_topico_prontuario + ". " + nome_do_prontuario)
+	keyword = ocorrencia.get_keyword()
+	if not keyword == keyword_anterior:
+		keyword_anterior = keyword
+		indice_keyword += 1
+		topico_keyword = str(indice_prontuario) + "." + str(indice_keyword)
+		prontuario_anterior = nome_do_prontuario
+		print(IDENTACAO_DUPLA + "3." + topico_keyword + ". " + keyword)			
 print()
 print(len(lista_ocorrencias))
 print(len(keywords))
