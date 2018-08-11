@@ -10,12 +10,12 @@ RELATÓRIO DA ANALISE DE PRONTUÁRIOS
 	2.2. Patela
 	...
 	
-3. OCORRÊNCIAS DE PALAVRAS-CHAVE POR ARQUIVO
-	3.1. Arquivo 1
-		 Patela
-		 Flexão
-	3.2. Arquivo 2
-		 Nenhuma palavra-chave
+3. OCORRÊNCIAS DE PALAVRAS-CHAVE POR PRONTUÁRIO
+	3.1. Prontuário 1
+		 -Patela
+		 -Flexão
+	3.2. Prontuário 2
+		 -Artrose
 	...
 	
 4. SENTENCAS ONDE OCORREM AS PALAVRAS-CHAVE
