@@ -57,6 +57,6 @@ for ocorrencia in lista_ocorrencias:
 	print("PRONTUARIO: " + ocorrencia.get_nome_prontuario())
 	print("PALAVRA-CHAVE: " + ocorrencia.get_keyword())
 	print("NUMERO DA LINHA: " + str(ocorrencia.get_num_linha()))
-	print("SENTENCA: \"" + ocorrencia.get_sentenca().strip() + \"")
+	print("SENTENCA: \"" + ocorrencia.get_sentenca().strip() + "\"")
 	print()
 	print()
